@@ -49,7 +49,7 @@ func main() {
 }
 ```
 
-For users with `Pro API Key`:
+For users  with `Pro API Key`:
 
 ```go
 package main
